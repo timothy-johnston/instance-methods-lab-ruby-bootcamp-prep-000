@@ -1,3 +1,8 @@
 class Dog 
   def bark 
-    puts
+    puts "Woof!"
+  end
+  def sit 
+    puts "The person is sitting"
+  end
+end
